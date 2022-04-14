@@ -20,14 +20,14 @@ body {
 
 #ciudad {
   position: absolute;
-  background-image: url(/Assets/images/ciudad.png);
+  background-image: url(./images/ciudad.png);
   width: 100%;
   height: 100%;
 }
 
 #carro {
   position: absolute;
-  background-image: url(/Assets/images/Carro.gif);
+  background-image: url(./images/Carro.gif);
   width: 15%;
   height: 20%;
   top: 82%;
@@ -36,7 +36,7 @@ body {
 
 #n1 {
   position: absolute;
-  background-image: url(/Assets/images/nube.png);
+  background-image: url(./images/nube.png);
   width: 15%;
   height: 25%;
   top: -4%;
@@ -46,7 +46,7 @@ body {
 }
 #n2 {
   position: absolute;
-  background-image: url(/Assets/images/nube.png);
+  background-image: url(./images/nube.png);
   width: 15%;
   height: 25%;
   right: 0;
@@ -57,7 +57,7 @@ body {
 }
 #n3 {
   position: absolute;
-  background-image: url(/Assets/images/nube.png);
+  background-image: url(./images/nube.png);
   width: 15%;
   height: 25%;
   right: 50%;
@@ -68,7 +68,7 @@ body {
 }
 #avion {
   position: absolute;
-  background-image: url(/Assets/images/avion.gif);
+  background-image: url(./images/avion.gif);
   width: 15%;
   height: 20%;
   top: 20%;
